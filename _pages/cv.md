@@ -11,4 +11,4 @@ description: This is a description of the page. You can modify it in '_pages/cv.
 #   sidebar: left
 ---
 
-You can view my [CV here](/assets/pdf/cv.pdf).
+You can view my [CV here](/assets/pdf/cv_mmr_0924.pdf).
