@@ -14,7 +14,6 @@ profile:
     <p>Atlanta, GA 30332</p>
 
 news: true # includes a list of news items
-latest_post.enabled = false
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
