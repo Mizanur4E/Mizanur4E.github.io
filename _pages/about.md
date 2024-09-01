@@ -18,10 +18,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Welcome to my portfolio website. Thank you for taking the time to visit!
 
-I am currently pursuing a Ph.D. in the Nanoelectronics Research Lab under the guidance of Professor Azad J. Naeemi at Georgia Tech, USA.
+I am a Ph.D. student in the Nanoelectronics Research Lab at Georgia Tech, working under the supervision of Professor Azad J. Naeemi.
 
-My research focuses on novel computing hierarchies to support next-generation AI applications. This includes the integration of emerging memory devices for domain-specific and heterogeneous computing, as well as the optimization of existing digital ML hardware accelerators. My work spans from memory array-level macro design to architecture-level simulation and optimization.
+My research is dedicated to pioneering novel computing hierarchies that advance next-generation AI applications. I focus on integrating emerging memory devices to enable domain-specific and heterogeneous computing, alongside optimizing digital ML hardware accelerators. My work spans from macro design at the memory array level to architecture-level simulation and optimization.
 
-My goal is to be at the forefront of technological innovation, contributing to the development of solutions that not only address current challenges but also pave the way for a more sustainable and intelligent future.
+I am driven by a passion for technological innovation, aiming to develop solutions that not only address current challenges but also lay the groundwork for a more sustainable and intelligent future.
