@@ -20,10 +20,8 @@ social: true # includes social icons at the bottom of the page
 
 Welcome to my portfolio website. Thank you for taking the time to visit!
 
-I am currently working as a Graduate Research Assistant (GRA) in the Nanoelectronics Research Lab, led by Professor Azad J. Naeemi, at the Georgia Institute of Technology, USA.
+I am currently pursuing a Ph.D. in the Nanoelectronics Research Lab under the guidance of Professor Azad J. Naeemi at Georgia Tech, USA.
 
-As an engineer, my primary responsibility is to conduct in-depth analyses of the fundamental challenges confronting human civilization. By leveraging state-of-the-art knowledge and technological advancements, I strive to develop innovative and sustainable solutions. My work is driven by a passion for pushing the boundaries of what is possible in technology and engineering.
-
-I am particularly interested in the field of artificial intelligence, where I focus on both algorithmic and hardware-level approaches to accelerate advancements. By integrating cutting-edge algorithms with sophisticated hardware designs, I aim to contribute to the rapid evolution of AI technologies, enhancing their efficiency and effectiveness.
+My research focuses on novel computing hierarchies to support next-generation AI applications. This includes the integration of emerging memory devices for domain-specific and heterogeneous computing, as well as the optimization of existing digital ML hardware accelerators. My work spans from memory array-level macro design to architecture-level simulation and optimization.
 
 My goal is to be at the forefront of technological innovation, contributing to the development of solutions that not only address current challenges but also pave the way for a more sustainable and intelligent future.
