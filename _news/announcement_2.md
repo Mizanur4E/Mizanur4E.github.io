@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Awarded Center for Research into Novel Compute Hierarchies(CRNCH) Ph.D. Fellowship
+First Authord Paper has been accepted for DATE'25
