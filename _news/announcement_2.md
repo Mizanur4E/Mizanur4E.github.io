@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-First Authord Paper has been accepted for DATE'25
+First authored paper, 'Axon' has been accepted for DATE'25 to be held at Lyon, France!
