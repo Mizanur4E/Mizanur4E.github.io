@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Paper on HDC Acceleration, "HyDra: A SOT-CAM based vector symbolic macro for HDC" got accepted in ICCAD 2025!
+First authored paper titled, "HyDra: A SOT-CAM based vector symbolic macro for HDC" got accepted in ICCAD 2025!
