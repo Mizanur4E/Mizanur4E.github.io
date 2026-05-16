@@ -17,8 +17,6 @@ news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-
-
 I am a PhD student in the Nanoelectronics Research Lab at Georgia Tech, working under the supervision of Professor Azad J. Naeemi.
 
 
